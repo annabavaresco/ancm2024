@@ -2,3 +2,8 @@
 remote_theme: rundocs/jekyll-rtd-theme
 title: ANCM 2024 Website
 description: This website contains materials for the ANCM2024 course 
+
+repository:
+  url: https://github.com/clclab/ANCM # Online location of your book
+  path_to_book: book # Optional path to your book, relative to the repository root
+  branch: main # Which branch of the repository should be used when creating links (optional)
