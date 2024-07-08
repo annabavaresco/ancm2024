@@ -5,5 +5,5 @@ description: This website contains materials for the ANCM2024 course
 
 repository:
   url: https://github.com/clclab/ANCM # Online location of your book
-  path_to_book: book # Optional path to your book, relative to the repository root
+  path_to_book: pages # Optional path to your book, relative to the repository root
   branch: main # Which branch of the repository should be used when creating links (optional)
