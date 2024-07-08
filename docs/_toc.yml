@@ -1,23 +1,23 @@
 format: jb-book
-root: intro
+root: main
 
 parts:
   - caption: Lab assignments
     chapters:
-      - file: main
+      - file: week_1
         # sections:
         #   - file: 01_lab_Logistic-regression-for-musical-tags
-      - file: week_1
+      - file: week_2
         # sections:
         #   - file: 02a_lab_Language-model-refresher
         #   - file: 02b_lab_RSA-fMRI
         #   - file: 02c_lab_Surprisal-EEG
-      - file: week_2
-        # sections:
-        #   - file: 03_lab_IRT_Stan
       - file: week_3
         # sections:
-        #   - file: 04_lab_visionConvolutionsRecurrence
+        #   - file: 03_lab_IRT_Stan
       - file: week_4
+        # sections:
+        #   - file: 04_lab_visionConvolutionsRecurrence
+      # - file: week_4
         # sections:
         #   - file: 05_extra_lab_ICCN_EyeTracking
