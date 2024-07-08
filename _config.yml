@@ -1,3 +1,4 @@
-theme: jekyll-rdt-theme
+# theme: jekyll-rdt-theme
+remote_theme: rundocs/jekyll-rtd-theme
 title: ANCM 2024 Website
 description: This website contains materials for the ANCM2024 course 
