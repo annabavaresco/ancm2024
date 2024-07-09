@@ -14,10 +14,16 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
-      - name: Install
-        uses: pandoc/actions/setup@{main}
+
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-pandoc@v2
         with:
-            version: 3.2.1
+            pandoc-version: '3.1.11' # The pandoc version to download (if necessary) and use.
+      - run: echo "# Test" | pandoc -t html
+    #   - name: Install
+    #     uses: pandoc/actions/setup@{main}
+    #     with:
+    #         version: 3.2.1
   
       - name: Sphinx build
         run: |
