@@ -5,8 +5,8 @@ parts:
   - caption: Lab assignments
     chapters:
       - file: 1_Logistic_regression_for_musical_tags
-        # sections:
-        #   - file: 01_lab_Logistic-regression-for-musical-tags
+        sections:
+          - file: 1_Logistic_regression_for_musical_tags
       - file: week_2
         # sections:
         #   - file: 02a_lab_Language-model-refresher
