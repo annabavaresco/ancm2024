@@ -82,7 +82,7 @@ luctus efficitur arcu. Cras ut dictum mi. Nulla congue interdum lorem, semper se
    :caption: Lab Sessions
    :maxdepth: 2
 
-   contents/1_Logistic_regression_for_musical_tags
+   contents/example
 ..    tutorial_notebooks/guide2/Research_Projects
 ..    tutorial_notebooks/guide3/Debugging_PyTorch
 ..    tutorial_notebooks/guide4/Research_Projects_with_JAX
