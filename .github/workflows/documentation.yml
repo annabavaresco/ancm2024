@@ -17,4 +17,5 @@ jobs:
           pip install -r requirements.txt
       - name: Sphinx build
         run: |
-          sphinx-build doc _build
+          sphinx-build docs _build
+
