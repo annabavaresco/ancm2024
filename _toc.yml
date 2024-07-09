@@ -1,5 +1,5 @@
 format: jb-book
-root: main
+root: README
 
 parts:
   - caption: Lab assignments
