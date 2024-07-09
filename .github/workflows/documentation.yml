@@ -14,6 +14,11 @@ jobs:
       - name: Install dependencies
         run: |
           pip install -r requirements.txt
+      - name: Install
+        uses: pandoc/actions/setup@{main}
+        with:
+            version: 3.2.1
+  
       - name: Sphinx build
         run: |
           sphinx-build docs _build
