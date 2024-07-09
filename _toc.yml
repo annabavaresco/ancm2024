@@ -4,7 +4,7 @@ root: README
 parts:
   - caption: Lab assignments
     chapters:
-      - file: week_1
+      - file: 1_Logistic_regression_for_musical_tags.ipynb
         # sections:
         #   - file: 01_lab_Logistic-regression-for-musical-tags
       - file: week_2
