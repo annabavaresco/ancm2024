@@ -20,6 +20,6 @@ Please reach out to her if you have any questions related to the materials on th
    :maxdepth: 2
    :caption: Contents:
 
-   .. 1_Logistic_regression_for_musical_tags.ipynb
+   1_Logistic_regression_for_musical_tags.ipynb
 
    
