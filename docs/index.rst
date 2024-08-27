@@ -17,7 +17,7 @@ Please reach out to her if you have any questions related to the materials on th
     `Ashley Burgoyne <https://www.mcg.uva.nl/people/jaburgoyne/>`_.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    1_Logistic_regression_for_musical_tags.ipynb
