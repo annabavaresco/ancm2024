@@ -17,7 +17,7 @@ Please reach out to her if you have any questions related to the materials on th
     `Ashley Burgoyne <https://www.mcg.uva.nl/people/jaburgoyne/>`_.
 
 +++++++++++++++
-Goals and teaching principles behind the tutorials
+Goals and teaching principles behind the assignments
 +++++++++++++++
 
 Trivial as it may sound, the tutorials included in this course were created mainly for you to **learn**.
