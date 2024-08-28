@@ -39,22 +39,28 @@ and 2 to 10.
 Each assignment will be graded acconding to the following criteria:
 
 #. **Quality of the code**: whether your code is correct, well-structured, and well-commented
+
 #. **Strength of motivation**: this refers to how well you can explain and motivate the conclusions
 you draw from your small experiment. Note that the "correctness" of the conclusions will be taken into
 account but you won't get full points of you state the "right" conclusion without motivating it well. 
 At the same time, if you don't get to the expected conclusion but make insighful speculations about your 
 results, you will still get some points
+
 #. **Writing style**: whether contents are expressed clearly, concisely, and using appropriate terminology.
 
 For each of the above criteria, you will receive a score ranging from 0 to 2:
 
 *  **0** (converted to 4): assignment not turned without a valid motivation
+
 *  **0.5** (converted to 5.5): code just drafted, style poorly curated, motivation inconsistent
+
 *  **1**(converted to 7): code present and running but missing crucial points/containing incorrect steps, text understandable 
 but often using inappropriate/colloquial terms and structures, motivation partially incosistent
+
 *  **1.5**(converted to 8): code nicely written and involving the required steps but containing minor mistakes, 
 good style which might benefit from minor improvements, good motivation but not fully supporting
 the expected conclusion 
+
 *  **2**(converted to 10): good and well-documented code including all the expected steps, nice academic writing style
 with appropriate terms, solid and well-explained motivations.
 
