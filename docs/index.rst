@@ -55,14 +55,14 @@ For each of the above criteria, you will receive a score ranging from 0 to 2:
 *  **0.5** (converted to 5.5): code just drafted, style poorly curated, motivation inconsistent
 
 *  **1** (converted to 7): code present and running but missing crucial points/containing incorrect steps, text understandable 
-but often using inappropriate/colloquial terms and structures, motivation partially incosistent
+   but often using inappropriate/colloquial terms and structures, motivation partially incosistent
 
 *  **1.5** (converted to 8): code nicely written and involving the required steps but containing minor mistakes, 
-good style which might benefit from minor improvements, good motivation but not fully supporting
-the expected conclusion 
+   good style which might benefit from minor improvements, good motivation but not fully supporting
+   the expected conclusion 
 
 *  **2** (converted to 10): good and well-documented code including all the expected steps, nice academic writing style
-with appropriate terms, solid and well-explained motivations.
+   with appropriate terms, solid and well-explained motivations.
 
 .. note::
    The assignments are not perfectly balanced in the amount of coding and/or writing 
