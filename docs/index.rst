@@ -29,31 +29,31 @@ the TA(s) and they will do their best to adjust the course materials based on yo
 Grading system
 +++++++++++++++
 
-Each of your lab submission can be assigned a maximum of 2 points and the overall grade will be an 
-average of the individual scores. If you are not happy with the grade of one of your assignment, you
+Each of your lab submissions can be assigned a maximum of 2 points and the overall grade will be an 
+average of the individual scores. If you are not happy with the grade of one of your assignments, you
 have the possibiliy of resubmitting it. This will not completely erase your previous grade, but the new 
 grade for your assignment will be the average between the old and the new grade. When converting the final 
 points (mean of all the four assignment) to an actual grade, a 0 will be converted to a 4, a 1 to 7, 
 and 2 to 10.
 
 Each assignment will be graded acconding to the following criteria:
-1. **Quality of the code**: whether your code is correct, well-structured, and well-commented
-2. **Strength of motivation**: this refers to how well you can explain and motivate the conclusions
+#. **Quality of the code**: whether your code is correct, well-structured, and well-commented
+#. **Strength of motivation**: this refers to how well you can explain and motivate the conclusions
 you draw from your small experiment. Note that the "correctness" of the conclusions will be taken into
 account but you won't get full points of you state the "right" conclusion without motivating it well. 
 At the same time, if you don't get to the expected conclusion but make insighful speculations about your 
 results, you will still get some points
-3. **Writing style**: whether contents are expressed clearly, concisely, and using appropriate terminology.
+#. **Writing style**: whether contents are expressed clearly, concisely, and using appropriate terminology.
 
 For each of the above criteria, you will receive a score ranging from 0 to 2:
-* **0** (converted to 4): assignment not turned without a valid motivation
-* **0.5** (converted to 5.5): code just drafted, style poorly curated, motivation inconsistent
-* **1**(converted to 7): code present and running but missing crucial points/containing incorrect steps, text understandable 
+*  **0** (converted to 4): assignment not turned without a valid motivation
+*  **0.5** (converted to 5.5): code just drafted, style poorly curated, motivation inconsistent
+*  **1**(converted to 7): code present and running but missing crucial points/containing incorrect steps, text understandable 
 but often using inappropriate/colloquial terms and structures, motivation partially incosistent
-* **1.5**(converted to 8): code nicely written and involving the required steps but containing minor mistakes, 
+*  **1.5**(converted to 8): code nicely written and involving the required steps but containing minor mistakes, 
 good style which might benefit from minor improvements, good motivation but not fully supporting
 the expected conclusion 
-* **2**(converted to 10): good and well-documented code including all the expected steps, nice academic writing style
+*  **2**(converted to 10): good and well-documented code including all the expected steps, nice academic writing style
 with appropriate terms, solid and well-explained motivations.
 
 .. note::
