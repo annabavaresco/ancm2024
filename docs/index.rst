@@ -116,11 +116,11 @@ they will most likely understand and do their best to find a solution that is su
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-   
-   Week 1
+
+   Section 1: Week 1
    1_Logistic_regression_for_musical_tags.ipynb
 
-   Week 2
+   Section 2: Week 2
    2A_Language_Model_Refresher.ipynb
    2B_RSA_with_fMRI_Data.ipynb
    2C_LM_Surprisal_and_EEG_data.ipynb
