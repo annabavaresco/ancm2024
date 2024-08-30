@@ -123,11 +123,11 @@ they will most likely understand and do their best to find a solution that is su
    .. 2C_LM_Surprisal_and_EEG_data.ipynb
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents:
 
    Week 1 <week_1>
-   Week 2 <language_models>
+   Week 2 <week_2>
 
 .. toctree::
    :hidden:
@@ -137,7 +137,7 @@ they will most likely understand and do their best to find a solution that is su
 .. toctree::
    :hidden:
 
-   language_models/2A_Language_Model_Refresher.ipynb
-   language_models/2B_RSA_with_fMRI_Data.ipynb
-   language_models/2C_LM_Surprisal_and_EEG_data.ipynb
+   week_2/2A_Language_Model_Refresher.ipynb
+   week_2/2B_RSA_with_fMRI_Data.ipynb
+   week_2/2C_LM_Surprisal_and_EEG_data.ipynb
    
