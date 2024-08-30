@@ -117,12 +117,30 @@ they will most likely understand and do their best to find a solution that is su
    :maxdepth: 1
    :caption: Contents:
 
-   Section 1: Week 1
-   1_Logistic_regression_for_musical_tags.ipynb
+   .. Section 1: Week 1
+   .. 1_Logistic_regression_for_musical_tags.ipynb
 
-   Section 2: Week 2
-   2A_Language_Model_Refresher.ipynb
-   2B_RSA_with_fMRI_Data.ipynb
-   2C_LM_Surprisal_and_EEG_data.ipynb
+   .. Section 2: Week 2
+   .. 2A_Language_Model_Refresher.ipynb
+   .. 2B_RSA_with_fMRI_Data.ipynb
+   .. 2C_LM_Surprisal_and_EEG_data.ipynb
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Contents:
+
+   Week 1 <logistic_regression>
+   Week 2 <language_models>
+
+.. toctree::
+   :hidden:
+
+   logistic_regression/1_Logistic_regression_for_musical_tags.ipynb
+
+.. toctree::
+   :hidden:
+
+   language_models/2A_Language_Model_Refresher.ipynb
+   language_models/2B_RSA_with_fMRI_Data.ipynb
+   language_models/2C_LM_Surprisal_and_EEG_data.ipynb
    
