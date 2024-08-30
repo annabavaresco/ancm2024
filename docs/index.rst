@@ -126,16 +126,16 @@ they will most likely understand and do their best to find a solution that is su
    .. 2C_LM_Surprisal_and_EEG_data.ipynb
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: Contents:
 
-   Week 1 <logistic_regression>
+   Week 1 <week_1>
    Week 2 <language_models>
 
 .. toctree::
    :hidden:
 
-   logistic_regression/1_Logistic_regression_for_musical_tags.ipynb
+   week_1/1_Logistic_regression_for_musical_tags.ipynb
 
 .. toctree::
    :hidden:
