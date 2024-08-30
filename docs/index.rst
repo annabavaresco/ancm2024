@@ -113,9 +113,6 @@ available to answer your questions, and you are more than welcome to ask them in
 Contact the TA or the course coordinator. If you have good reasons for being unable to submit the assignment,
 they will most likely understand and do their best to find a solution that is suitable for you.
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Contents:
 
    .. Section 1: Week 1
    .. 1_Logistic_regression_for_musical_tags.ipynb
