@@ -77,6 +77,17 @@ For each of the above criteria, you will receive a score ranging from 0 to 2:
 Questions you may have about the assignments/tutorials
 +++++++++++++++
 
+**Do I have to attend computer labs?**
+Attending computer labs is not mandatory, so no need to worry if you have schedule conflicts. If you don't, however,
+consider attending the computer labs in person, as it will make it easier for you to ask clarification questions to the 
+TA(s) and/or discuss any doubts you may have with coursemates.
+
+**What do I have to submit? A notebook, a PDF, or both?**
+You should submit both a notebook and a PDF. The notebook should include the code to reproduce your analyses/results.
+As for the PDF, please include there any written answer/report that the assignment/question require. Consider also including 
+some figures or tables, if you think it might be convenient to present your
+results more effectively. Tables and figures will not count toward the page/word limit (if there is any).
+
 **When will I see the grade for my assignment?**
 The TA(s) will do their best to grade the assignment as soon as they can, but it may
 not always be possible for them to grade each assignment before the next submission deadline. 
@@ -99,15 +110,15 @@ topic/question is perfectly acceptable. Again, remember that simply copy-pasting
 is not acceptable and won't probably teach you anything. Using ChatGPT to improve the style of your 
 report is also discouraged: if you don't try to work on your writing style yourself, it's never going to improve!
 
-**I have an offline question about the tutorials. Should I contact the TA right away?**
+**I have an offline question about the computer labs. Should I contact the TA right away?**
 The TA(s) are there to help you and do their best to answer your questions. However, they are unfortunately human beings
 with limited time and resources. This means that, if they get too many emails/requests, they will inevitably
-be slow in responding. If you have a question about the tutorials, it may be good to check with your coursemates
-if the information wasn't communicated clearly or if you accidentally missed it. This way, TAs will deal 
-with a reduced number of requests and will, hopefully, be able to respond more promptly to the truly unclear/urgent issues.
+be slow in responding. If you have a question about the computer labs, it may be good to check with your coursemates
+if the information wasn't communicated clearly or if you accidentally missed it, and contact the TA only after. 
+If you find that other students
+have (or might have) the same doubt you have, please also consider posting your question on Canvas, as the answer
+may be useful for other coursemates.
 
-Note that different rules apply for questions that arise during the lab hours. In that case, the TA is directly
-available to answer your questions, and you are more than welcome to ask them in person.
 
 **Due to unforeseeable circumstances, I will be unable to submit the assignment(s) within the deadline. What should I do?**
 Contact the TA or the course coordinator. If you have good reasons for being unable to submit the assignment,
@@ -135,6 +146,12 @@ they will most likely understand and do their best to find a solution that is su
    week_2/2A_Language_Model_Refresher.ipynb
    week_2/2B_RSA_with_fMRI_Data.ipynb
    week_2/2C_LM_Surprisal_and_EEG_data.ipynb
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Week 2:
+
+   week_3/Item_Response_Theory_with_R.ipynb
 
 
    
