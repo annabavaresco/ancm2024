@@ -149,7 +149,7 @@ they will most likely understand and do their best to find a solution that is su
 
 .. toctree::
    :maxdepth: 2
-   :caption: Week 2:
+   :caption: Week 3:
 
    week_3/Item_Response_Theory_with_R.ipynb
 
