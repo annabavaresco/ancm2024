@@ -124,6 +124,9 @@ may be useful for other coursemates.
 Contact the TA or the course coordinator. If you have good reasons for being unable to submit the assignment,
 they will most likely understand and do their best to find a solution that is suitable for you.
 
++++++++++++++++
+Contents:
++++++++++++++++
 
    .. Section 1: Week 1
    .. 1_Logistic_regression_for_musical_tags.ipynb
@@ -134,24 +137,24 @@ they will most likely understand and do their best to find a solution that is su
    .. 2C_LM_Surprisal_and_EEG_data.ipynb
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Week 1:
 
    week_1/1_Logistic_regression_for_musical_tags.ipynb
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Week 2:
 
    week_2/2A_Language_Model_Refresher.ipynb
    week_2/2B_RSA_with_fMRI_Data.ipynb
    week_2/2C_LM_Surprisal_and_EEG_data.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Week 3:
+.. .. toctree::
+..    :maxdepth: 1
+..    :caption: Week 3:
 
-   week_3/Item_Response_Theory_with_R.ipynb
+..    week_3/Item_Response_Theory_with_R.ipynb
 
 
    
