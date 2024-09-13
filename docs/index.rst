@@ -50,16 +50,17 @@ Each assignment will be graded acconding to the following criteria:
 
 For each of the above criteria, you will receive a score ranging from 0 to 2:
 
-*  **0** (converted to 4): assignment not turned without a valid motivation
+*  **0** (converted to 4): assignment not turned in without a valid motivation
 
 *  **0.5** (converted to 5.5): code just drafted, style poorly curated, motivation inconsistent
 
-*  **1** (converted to 7): code present and running but missing crucial points/containing incorrect steps, text understandable 
-   but often using inappropriate/colloquial terms and structures, motivation partially incosistent
+*  **1** (converted to 6): code present and running but not very well commented/motivated, 
+   style understandable but often using inappropriate/colloquial terms and structures, 
+   the main ideas are roughly present but not justified/explained well
 
-*  **1.5** (converted to 8): code nicely written and involving the required steps but containing minor mistakes, 
-   good style which might benefit from minor improvements, good motivation but not fully supporting
-   the expected conclusion 
+*  **1.5** (converted to 8): code nicely written and including the required steps but containing minor 
+   mistakes, good style which might benefit from minor improvements, good motivation but not fully 
+   supporting the expected conclusion
 
 *  **2** (converted to 10): good and well-documented code including all the expected steps, nice academic writing style
    with appropriate terms, solid and well-explained motivations.
@@ -151,10 +152,10 @@ Contents:
    week_2/2C_LM_Surprisal_and_EEG_data.ipynb
 
 .. .. toctree::
-..    :maxdepth: 1
-..    :caption: Week 3:
+   :maxdepth: 1
+   :caption: Week 3:
 
-..    week_3/Item_Response_Theory_with_R.ipynb
+   week_3/3_IRT_Stan.ipynb
 
 
    
