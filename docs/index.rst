@@ -151,7 +151,7 @@ Contents:
    week_2/2B_RSA_with_fMRI_Data.ipynb
    week_2/2C_LM_Surprisal_and_EEG_data.ipynb
 
-.. .. toctree::
+.. toctree::
    :maxdepth: 1
    :caption: Week 3:
 
