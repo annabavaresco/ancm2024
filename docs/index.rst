@@ -157,5 +157,11 @@ Contents:
 
    week_3/3_IRT_Stan.ipynb
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Week 4:
+
+   week_4/4_Vision,_Convolutions_and_Recurrence.ipynb
+
 
    
