@@ -33,7 +33,7 @@ Each of your lab submissions can be assigned a maximum of 2 points and the overa
 average of the individual scores. If you are not happy with the grade of one of your assignments, you
 have the possibiliy of resubmitting it. This will not completely erase your previous grade, but the new 
 grade for your assignment will be the average between the old and the new grade. When converting the final 
-points (mean of all the four assignment) to an actual grade, a 0 will be converted to a 4, a 1 to 7, 
+points (mean of all the four assignment) to an actual grade, a 0 will be converted to a 4, a 1 to 6, 
 and 2 to 10.
 
 Each assignment will be graded acconding to the following criteria:
